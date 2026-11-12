@@ -12,9 +12,13 @@ El total inicia en `1`. **Add** suma el número ingresado al total actual; **Mul
 
 ## Diagrama de clases
 
-El diagrama de clases del proyecto está en [`docs/diagramaDeClases.png`](docs/diagramaDeClases.png).
+El diagrama de clases del proyecto está en [`docs/diagramaDeClases.png`](docs/DiagramaDeClases.png).
 
-![Diagrama de clases de la calculadora MVC](docs/diagramaDeClases.png)
+![Diagrama de clases de la calculadora MVC](docs/DiagramaDeClases.png)
+
+## Video de evidencia
+
+[Ver video de evidencia](https://drive.google.com/file/d/1kThpD3iCqryFf9OCWcB3kCihgyOj-7NU/view?usp=sharing)
 
 ## Compilar y ejecutar en PowerShell
 
